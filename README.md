@@ -49,10 +49,9 @@ We welcome contributions from the community to improve this Tic-Tac-Toe game. If
 - Fork this repository to your GitHub account.
 
 - Create a new branch for your feature or bug fix:
-
 	bash
 
-	git checkout -b feature-name
+	 	git checkout -b feature-name
 - Make your changes and commit them:
 
 bash
